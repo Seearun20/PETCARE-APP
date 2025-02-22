@@ -15,10 +15,8 @@ o	Download the google-services.json file for Android and place it in the app/ di
 4.	IDE Plugins:
 o	Kotlin Plugin (if not already installed in Android Studio).
 ________________________________________
-User IDs and Passwords
-Admin Account:
-•	Email: kumararun80551313@gmail.com
-•	Password: 098765
+Admin Account Setup:
+First signup as a normal account and after successfull signup go to your firebase console and in firestore database their will be a connection made as users and in that find your username and turn the IsAdmin field as true then this account will become admin.
 ________________________________________
 Step-by-Step Instructions to Execute the Project
 1.	Clone the Project Repository:
